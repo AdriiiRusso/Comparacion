@@ -1,4 +1,5 @@
-# Mayor de dos numeros
+# Trabajo #2 — Mayor de dos Números
+
 "Comparación de A y B"
 
  - [Enunciado](#enunciado)
