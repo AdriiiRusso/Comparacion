@@ -1,16 +1,23 @@
+/*
+	"Mayor"
+	"Adri√°n Russo"
+	"20170403"
+*/
+
 #include <iostream>
 
 using namespace std;
 
-int main () {
-	int a;
-	int b;
+int main ()
+{
+	double a;
+	double b;
 	
-	cout << "ComparaciÛn de los n˙meros A y B:" << endl;
+	cout << "Mayor de A y B:" << endl;
 	
-	cout << "Ingrese el n˙mero A: ";
+	cout << "Ingrese A: ";
 	cin >> a;
-	cout << "Ingrese el n˙mero B: ";
+	cout << "Ingrese B: ";
 	cin >> b;
 	
 	if (a > b)
@@ -21,10 +28,10 @@ int main () {
 	{
 		cout << "A y B son iguales" << endl;
 	}
-	else
-	{
-		cout << "El mayor es B" << endl;
-	}
+		else
+		{
+			cout << "El mayor es B" << endl;
+		}
 	
 	system ("PAUSE");
 }
