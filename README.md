@@ -9,9 +9,9 @@
 Dado dos números informar cuál es el mayor.
 
 ## Análisis ##
-El usuario debe de ingresar 2 números y el programa debe arrojar el resultado de la comparación de los 2 números.
+El usuario debe de ingresar 2 números reales, el programa debe comparar los números y arrojar cuál de los números es mayor.
 
 ## Algoritmo ##
 Siendo A y B números reales.
 
-Leer A --> Leer B --> Comparar A y B
+Leer A --> Leer B --> Escribir Mayor de A y B
